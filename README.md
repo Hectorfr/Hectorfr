@@ -1,6 +1,5 @@
-<h1 align="center">Hector Freard</h1>
-<h2 align="center">Currently studying in UPV</h2>
-<img align="left" alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<h1 align="center">Welcome</h1>
+<img align="right" alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <!-- GITHUB THINGS 
 
@@ -9,14 +8,17 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hectorfr&" alt="hectorfr" /></p> -->
 
 
-<!--  Connects with me -->
+<!--  About me -->
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://linkedin.com/in/www.linkedin.com/in/hector-fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hector-fr" height="30" width="40" /></a>
+<h3 align="left">Hello world!</h3>
+<p align="left" >
+I'm Hector Freard, an enthusiastic student of Computer Science at UPV, driven by a passion for software development and technology.
+  
+My GitHub serves as a platform to display the range of projects I've worked on during my years as a coder.
+
+My main goal is to continue my learning in the scope of computer science, as well as personal projects to further develop my overall IT skills, meaning I am open to collaborate with fellow developers and actively contribute to open-source projects, since <i><b>'Teamwork is the fuel that allows common people to attain uncommon results.</i></b>'
+
+Please don't hesitate to contact me if you have any inquiries or suggestions.
 </p>
 
 <!--  Languages and tooles, to do more go here https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-
-<h3 align="right">Languages and Tools:</h3>
-<p align="right"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
