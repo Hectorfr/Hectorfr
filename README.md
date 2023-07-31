@@ -1,10 +1,10 @@
 <h1 align="center">Welcome</h1>
-<img align="right" alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="center" alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<!-- GITHUB THINGS 
 
+<!-- GITHUB stuff
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorfr&show_icons=true&locale=en&layout=compact" alt="hectorfr" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hectorfr&show_icons=true&locale=en" alt="hectorfr" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hectorfr&show_icons=true&locale=en&layout=compact" alt="hectorfr" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hectorfr&" alt="hectorfr" /></p> -->
 
 
